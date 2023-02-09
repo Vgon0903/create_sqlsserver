@@ -1,3 +1,3 @@
 # create_sqlsserver
 
-Exemplo Create utilizado no Sql Server.
+Exemplo Create e Insert utilizado no Sql Server.
